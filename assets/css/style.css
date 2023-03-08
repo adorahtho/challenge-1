@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+header {
+    padding: 20px;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/*Horiseon name in header*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
+
+.seo {
+    color: #bbbdb9;
+}
+
+/*Navigation Section of header element*/
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+}
+
+a {
+    color: #ffffff;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+    font-size: 20px;
+}
+
+/*Large background image styled with CSS with margin at 25px from the article element*/
+#styledimg {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*Size of 1st article element with margin of 20px from the left*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*50px of padding around each section of 1st article*/
+.sections1-3 {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+/*Font size and bottom margin space for h2 elements under 1st article element*/
+.contenttitle {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Moves image of section 1 and 3 to the left*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+/*Moves image of section 2 to the right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*2nd article element is 20px from the right, 20px of padding around the contents
+and height of 940px to level with article 1*/
+.benefits {
+    margin-right: 20px;
+    padding: 30px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 940px;
+    background-color: #0072bb;
+}
+
+/*Bottom margin of 20px from each section*/
+.sections4-6 {
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefitsimg {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*30px of padding around footer content*/
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+#footertext {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
