@@ -24,6 +24,6 @@ The updated index.html and style.css should appear like the following image.
 
 ![Screenshot of edited webpage.](https://github.com/thoak90codes/challenge-1/blob/main/assets/images/HoriseonSS.png)
 
-## Author and contributors
+## Author and Contributors
 @Xandromus 
 @thoak90codes
