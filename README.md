@@ -22,7 +22,7 @@ git clone https://github.com/coding-boot-camp/urban-octo-telegram.git
 
 The updated index.html and style.css should appear like the following image.
 
-![Screenshot of edited webpage.](https://https://github.com/thoak90codes/challenge-1/assets/images/HoriseonSS.png)
+![Screenshot of edited webpage.](https://github.com/thoak90codes/challenge-1/blob/main/assets/images/HoriseonSS.png)
 
 ## Author and contributors
 @Xandromus 
